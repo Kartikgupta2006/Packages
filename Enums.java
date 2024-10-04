@@ -1,4 +1,5 @@
 package ENUMS;
+// it is the ennum program 
 
 enum  Enums {
     RED("stop"), GREEN("start"),YELLOW("break");
